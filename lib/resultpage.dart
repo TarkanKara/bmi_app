@@ -1,3 +1,4 @@
+
 import 'package:bmi_app/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/foundation/key.dart';
@@ -196,5 +197,6 @@ class _ResultsPageState extends State<ResultsPage> {
     } else {
       return "WRONG VALUES";
     }
+
   }
 }
